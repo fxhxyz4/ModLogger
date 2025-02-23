@@ -1,0 +1,5 @@
+## Security Policy
+
+### Reporting a Vulnerability
+
+protonmail [fxhsec@proton.me](mailto:fxhsec@proton.me) with any security issues.
