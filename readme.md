@@ -31,7 +31,9 @@ ModLog.Debug("debug");
 
 ![image](./assets/image.png)
 
-**Log file**
+#
+
+### Log file:
 ```
 logs/23_02_2025.log:
 
