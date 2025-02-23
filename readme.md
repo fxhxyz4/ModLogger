@@ -46,8 +46,8 @@ logs/23_02_2025.log:
 
 #
 
-### how to remove?
+### how to remove it?
 ```sh
-dotnet remove your.csproj reference ./ModLogger/ModLogger.csproj
+dotnet remove reference ../../ModLogger/ModLogger.csproj
 ```
 
