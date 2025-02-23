@@ -3,7 +3,8 @@
 
 ### how to use?
 ```sh
-git clone https://github.com/fxhxyz4/ModLogger.git && cd yourProject &&
+git clone https://github.com/fxhxyz4/ModLogger.git && cd ModLogger &&
+sudo chmod +x ./build.sh && ./build.sh && cd yourProject &&
 dotnet add reference ./ModLogger/ModLogger.csproj
 ```
 
